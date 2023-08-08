@@ -1,0 +1,1400 @@
+(['C:\\xampp\\htdocs\\matematica\\matematica.py'],
+ ['C:\\xampp\\htdocs\\matematica'],
+ ['codecs'],
+ ['C:\\Users\\Eduardo '
+  'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'C:\\Users\\Eduardo '
+  'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'C:\\Users\\Eduardo '
+  'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'C:\\Users\\Eduardo '
+  'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'C:\\Users\\Eduardo '
+  'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ {},
+ [],
+ [],
+ False,
+ False,
+ False,
+ {},
+ [],
+ [],
+ '3.11.4 | packaged by Anaconda, Inc. | (main, Jul  5 2023, 13:47:18) [MSC '
+ 'v.1916 64 bit (AMD64)]',
+ [('pyi_rth_inspect',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('matematica', 'C:\\xampp\\htdocs\\matematica\\matematica.py', 'PYSOURCE')],
+ [('inspect',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\typing.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\copy.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\struct.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\string.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\ast.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\signal.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('unidecode',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\__init__.py',
+   'PYMODULE'),
+  ('unidecode.x1f6',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x1f6.py',
+   'PYMODULE'),
+  ('unidecode.x1f1',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x1f1.py',
+   'PYMODULE'),
+  ('unidecode.x1d7',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x1d7.py',
+   'PYMODULE'),
+  ('unidecode.x1d6',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x1d6.py',
+   'PYMODULE'),
+  ('unidecode.x1d5',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x1d5.py',
+   'PYMODULE'),
+  ('unidecode.x1d4',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x1d4.py',
+   'PYMODULE'),
+  ('unidecode.x0ff',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0ff.py',
+   'PYMODULE'),
+  ('unidecode.x0fe',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0fe.py',
+   'PYMODULE'),
+  ('unidecode.x0fd',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0fd.py',
+   'PYMODULE'),
+  ('unidecode.x0fc',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0fc.py',
+   'PYMODULE'),
+  ('unidecode.x0fb',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0fb.py',
+   'PYMODULE'),
+  ('unidecode.x0fa',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0fa.py',
+   'PYMODULE'),
+  ('unidecode.x0f9',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0f9.py',
+   'PYMODULE'),
+  ('unidecode.x0d7',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0d7.py',
+   'PYMODULE'),
+  ('unidecode.x0d6',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0d6.py',
+   'PYMODULE'),
+  ('unidecode.x0d5',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0d5.py',
+   'PYMODULE'),
+  ('unidecode.x0d4',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0d4.py',
+   'PYMODULE'),
+  ('unidecode.x0d3',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0d3.py',
+   'PYMODULE'),
+  ('unidecode.x0d2',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0d2.py',
+   'PYMODULE'),
+  ('unidecode.x0d1',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0d1.py',
+   'PYMODULE'),
+  ('unidecode.x0d0',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0d0.py',
+   'PYMODULE'),
+  ('unidecode.x0cf',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0cf.py',
+   'PYMODULE'),
+  ('unidecode.x0ce',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0ce.py',
+   'PYMODULE'),
+  ('unidecode.x0cd',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0cd.py',
+   'PYMODULE'),
+  ('unidecode.x0cc',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0cc.py',
+   'PYMODULE'),
+  ('unidecode.x0cb',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0cb.py',
+   'PYMODULE'),
+  ('unidecode.x0ca',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0ca.py',
+   'PYMODULE'),
+  ('unidecode.x0c9',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0c9.py',
+   'PYMODULE'),
+  ('unidecode.x0c8',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0c8.py',
+   'PYMODULE'),
+  ('unidecode.x0c7',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0c7.py',
+   'PYMODULE'),
+  ('unidecode.x0c6',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0c6.py',
+   'PYMODULE'),
+  ('unidecode.x0c5',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0c5.py',
+   'PYMODULE'),
+  ('unidecode.x0c4',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0c4.py',
+   'PYMODULE'),
+  ('unidecode.x0c3',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0c3.py',
+   'PYMODULE'),
+  ('unidecode.x0c2',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0c2.py',
+   'PYMODULE'),
+  ('unidecode.x0c1',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0c1.py',
+   'PYMODULE'),
+  ('unidecode.x0c0',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0c0.py',
+   'PYMODULE'),
+  ('unidecode.x0bf',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0bf.py',
+   'PYMODULE'),
+  ('unidecode.x0be',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0be.py',
+   'PYMODULE'),
+  ('unidecode.x0bd',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0bd.py',
+   'PYMODULE'),
+  ('unidecode.x0bc',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0bc.py',
+   'PYMODULE'),
+  ('unidecode.x0bb',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0bb.py',
+   'PYMODULE'),
+  ('unidecode.x0ba',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0ba.py',
+   'PYMODULE'),
+  ('unidecode.x0b9',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0b9.py',
+   'PYMODULE'),
+  ('unidecode.x0b8',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0b8.py',
+   'PYMODULE'),
+  ('unidecode.x0b7',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0b7.py',
+   'PYMODULE'),
+  ('unidecode.x0b6',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0b6.py',
+   'PYMODULE'),
+  ('unidecode.x0b5',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0b5.py',
+   'PYMODULE'),
+  ('unidecode.x0b4',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0b4.py',
+   'PYMODULE'),
+  ('unidecode.x0b3',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0b3.py',
+   'PYMODULE'),
+  ('unidecode.x0b2',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0b2.py',
+   'PYMODULE'),
+  ('unidecode.x0b1',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0b1.py',
+   'PYMODULE'),
+  ('unidecode.x0b0',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0b0.py',
+   'PYMODULE'),
+  ('unidecode.x0af',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0af.py',
+   'PYMODULE'),
+  ('unidecode.x0ae',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0ae.py',
+   'PYMODULE'),
+  ('unidecode.x0ad',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0ad.py',
+   'PYMODULE'),
+  ('unidecode.x0ac',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0ac.py',
+   'PYMODULE'),
+  ('unidecode.x0a4',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0a4.py',
+   'PYMODULE'),
+  ('unidecode.x0a3',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0a3.py',
+   'PYMODULE'),
+  ('unidecode.x0a2',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0a2.py',
+   'PYMODULE'),
+  ('unidecode.x0a1',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0a1.py',
+   'PYMODULE'),
+  ('unidecode.x0a0',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x0a0.py',
+   'PYMODULE'),
+  ('unidecode.x09f',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x09f.py',
+   'PYMODULE'),
+  ('unidecode.x09e',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x09e.py',
+   'PYMODULE'),
+  ('unidecode.x09d',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x09d.py',
+   'PYMODULE'),
+  ('unidecode.x09c',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x09c.py',
+   'PYMODULE'),
+  ('unidecode.x09b',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x09b.py',
+   'PYMODULE'),
+  ('unidecode.x09a',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x09a.py',
+   'PYMODULE'),
+  ('unidecode.x099',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x099.py',
+   'PYMODULE'),
+  ('unidecode.x098',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x098.py',
+   'PYMODULE'),
+  ('unidecode.x097',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x097.py',
+   'PYMODULE'),
+  ('unidecode.x096',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x096.py',
+   'PYMODULE'),
+  ('unidecode.x095',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x095.py',
+   'PYMODULE'),
+  ('unidecode.x094',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x094.py',
+   'PYMODULE'),
+  ('unidecode.x093',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x093.py',
+   'PYMODULE'),
+  ('unidecode.x092',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x092.py',
+   'PYMODULE'),
+  ('unidecode.x091',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x091.py',
+   'PYMODULE'),
+  ('unidecode.x090',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x090.py',
+   'PYMODULE'),
+  ('unidecode.x08f',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x08f.py',
+   'PYMODULE'),
+  ('unidecode.x08e',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x08e.py',
+   'PYMODULE'),
+  ('unidecode.x08d',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x08d.py',
+   'PYMODULE'),
+  ('unidecode.x08c',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x08c.py',
+   'PYMODULE'),
+  ('unidecode.x08b',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x08b.py',
+   'PYMODULE'),
+  ('unidecode.x08a',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x08a.py',
+   'PYMODULE'),
+  ('unidecode.x089',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x089.py',
+   'PYMODULE'),
+  ('unidecode.x088',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x088.py',
+   'PYMODULE'),
+  ('unidecode.x087',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x087.py',
+   'PYMODULE'),
+  ('unidecode.x086',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x086.py',
+   'PYMODULE'),
+  ('unidecode.x085',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x085.py',
+   'PYMODULE'),
+  ('unidecode.x084',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x084.py',
+   'PYMODULE'),
+  ('unidecode.x083',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x083.py',
+   'PYMODULE'),
+  ('unidecode.x082',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x082.py',
+   'PYMODULE'),
+  ('unidecode.x081',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x081.py',
+   'PYMODULE'),
+  ('unidecode.x080',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x080.py',
+   'PYMODULE'),
+  ('unidecode.x07f',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x07f.py',
+   'PYMODULE'),
+  ('unidecode.x07e',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x07e.py',
+   'PYMODULE'),
+  ('unidecode.x07d',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x07d.py',
+   'PYMODULE'),
+  ('unidecode.x07c',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x07c.py',
+   'PYMODULE'),
+  ('unidecode.x07b',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x07b.py',
+   'PYMODULE'),
+  ('unidecode.x07a',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x07a.py',
+   'PYMODULE'),
+  ('unidecode.x079',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x079.py',
+   'PYMODULE'),
+  ('unidecode.x078',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x078.py',
+   'PYMODULE'),
+  ('unidecode.x077',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x077.py',
+   'PYMODULE'),
+  ('unidecode.x076',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x076.py',
+   'PYMODULE'),
+  ('unidecode.x075',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x075.py',
+   'PYMODULE'),
+  ('unidecode.x074',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x074.py',
+   'PYMODULE'),
+  ('unidecode.x073',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x073.py',
+   'PYMODULE'),
+  ('unidecode.x072',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x072.py',
+   'PYMODULE'),
+  ('unidecode.x071',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x071.py',
+   'PYMODULE'),
+  ('unidecode.x070',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x070.py',
+   'PYMODULE'),
+  ('unidecode.x06f',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x06f.py',
+   'PYMODULE'),
+  ('unidecode.x06e',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x06e.py',
+   'PYMODULE'),
+  ('unidecode.x06d',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x06d.py',
+   'PYMODULE'),
+  ('unidecode.x06c',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x06c.py',
+   'PYMODULE'),
+  ('unidecode.x06b',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x06b.py',
+   'PYMODULE'),
+  ('unidecode.x06a',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x06a.py',
+   'PYMODULE'),
+  ('unidecode.x069',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x069.py',
+   'PYMODULE'),
+  ('unidecode.x068',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x068.py',
+   'PYMODULE'),
+  ('unidecode.x067',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x067.py',
+   'PYMODULE'),
+  ('unidecode.x066',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x066.py',
+   'PYMODULE'),
+  ('unidecode.x065',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x065.py',
+   'PYMODULE'),
+  ('unidecode.x064',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x064.py',
+   'PYMODULE'),
+  ('unidecode.x063',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x063.py',
+   'PYMODULE'),
+  ('unidecode.x062',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x062.py',
+   'PYMODULE'),
+  ('unidecode.x061',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x061.py',
+   'PYMODULE'),
+  ('unidecode.x060',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x060.py',
+   'PYMODULE'),
+  ('unidecode.x05f',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x05f.py',
+   'PYMODULE'),
+  ('unidecode.x05e',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x05e.py',
+   'PYMODULE'),
+  ('unidecode.x05d',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x05d.py',
+   'PYMODULE'),
+  ('unidecode.x05c',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x05c.py',
+   'PYMODULE'),
+  ('unidecode.x05b',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x05b.py',
+   'PYMODULE'),
+  ('unidecode.x05a',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x05a.py',
+   'PYMODULE'),
+  ('unidecode.x059',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x059.py',
+   'PYMODULE'),
+  ('unidecode.x058',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x058.py',
+   'PYMODULE'),
+  ('unidecode.x057',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x057.py',
+   'PYMODULE'),
+  ('unidecode.x056',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x056.py',
+   'PYMODULE'),
+  ('unidecode.x055',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x055.py',
+   'PYMODULE'),
+  ('unidecode.x054',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x054.py',
+   'PYMODULE'),
+  ('unidecode.x053',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x053.py',
+   'PYMODULE'),
+  ('unidecode.x052',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x052.py',
+   'PYMODULE'),
+  ('unidecode.x051',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x051.py',
+   'PYMODULE'),
+  ('unidecode.x050',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x050.py',
+   'PYMODULE'),
+  ('unidecode.x04f',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x04f.py',
+   'PYMODULE'),
+  ('unidecode.x04e',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x04e.py',
+   'PYMODULE'),
+  ('unidecode.x04d',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x04d.py',
+   'PYMODULE'),
+  ('unidecode.x033',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x033.py',
+   'PYMODULE'),
+  ('unidecode.x032',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x032.py',
+   'PYMODULE'),
+  ('unidecode.x031',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x031.py',
+   'PYMODULE'),
+  ('unidecode.x030',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x030.py',
+   'PYMODULE'),
+  ('unidecode.x02f',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x02f.py',
+   'PYMODULE'),
+  ('unidecode.x02e',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x02e.py',
+   'PYMODULE'),
+  ('unidecode.x02c',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x02c.py',
+   'PYMODULE'),
+  ('unidecode.x02a',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x02a.py',
+   'PYMODULE'),
+  ('unidecode.x029',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x029.py',
+   'PYMODULE'),
+  ('unidecode.x028',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x028.py',
+   'PYMODULE'),
+  ('unidecode.x027',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x027.py',
+   'PYMODULE'),
+  ('unidecode.x026',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x026.py',
+   'PYMODULE'),
+  ('unidecode.x025',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x025.py',
+   'PYMODULE'),
+  ('unidecode.x024',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x024.py',
+   'PYMODULE'),
+  ('unidecode.x023',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x023.py',
+   'PYMODULE'),
+  ('unidecode.x022',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x022.py',
+   'PYMODULE'),
+  ('unidecode.x021',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x021.py',
+   'PYMODULE'),
+  ('unidecode.x020',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x020.py',
+   'PYMODULE'),
+  ('unidecode.x01f',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x01f.py',
+   'PYMODULE'),
+  ('unidecode.x01e',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x01e.py',
+   'PYMODULE'),
+  ('unidecode.x01d',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x01d.py',
+   'PYMODULE'),
+  ('unidecode.x018',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x018.py',
+   'PYMODULE'),
+  ('unidecode.x017',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x017.py',
+   'PYMODULE'),
+  ('unidecode.x016',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x016.py',
+   'PYMODULE'),
+  ('unidecode.x015',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x015.py',
+   'PYMODULE'),
+  ('unidecode.x014',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x014.py',
+   'PYMODULE'),
+  ('unidecode.x013',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x013.py',
+   'PYMODULE'),
+  ('unidecode.x012',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x012.py',
+   'PYMODULE'),
+  ('unidecode.x011',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x011.py',
+   'PYMODULE'),
+  ('unidecode.x010',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x010.py',
+   'PYMODULE'),
+  ('unidecode.x00f',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x00f.py',
+   'PYMODULE'),
+  ('unidecode.x00e',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x00e.py',
+   'PYMODULE'),
+  ('unidecode.x00d',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x00d.py',
+   'PYMODULE'),
+  ('unidecode.x00c',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x00c.py',
+   'PYMODULE'),
+  ('unidecode.x00b',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x00b.py',
+   'PYMODULE'),
+  ('unidecode.x00a',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x00a.py',
+   'PYMODULE'),
+  ('unidecode.x009',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x009.py',
+   'PYMODULE'),
+  ('unidecode.x007',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x007.py',
+   'PYMODULE'),
+  ('unidecode.x006',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x006.py',
+   'PYMODULE'),
+  ('unidecode.x005',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x005.py',
+   'PYMODULE'),
+  ('unidecode.x004',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x004.py',
+   'PYMODULE'),
+  ('unidecode.x003',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x003.py',
+   'PYMODULE'),
+  ('unidecode.x002',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x002.py',
+   'PYMODULE'),
+  ('unidecode.x001',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x001.py',
+   'PYMODULE'),
+  ('unidecode.x000',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\x000.py',
+   'PYMODULE'),
+  ('unidecode.util',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\util.py',
+   'PYMODULE'),
+  ('unidecode.__main__',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\unidecode\\__main__.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('curses',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\curses\\has_key.py',
+   'PYMODULE')],
+ [('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('python311.dll',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\python311.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('zlib.dll',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\zlib.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('_lzma.pyd',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Eduardo Zagato\\anaconda3\\envs\\matematica\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_curses.cp311-win_amd64.pyd',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Lib\\site-packages\\_curses.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('liblzma.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Library\\bin\\liblzma.dll',
+   'BINARY'),
+  ('LIBBZ2.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Library\\bin\\LIBBZ2.dll',
+   'BINARY'),
+  ('libcrypto-3-x64.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Library\\bin\\libcrypto-3-x64.dll',
+   'BINARY'),
+  ('libssl-3-x64.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Library\\bin\\libssl-3-x64.dll',
+   'BINARY'),
+  ('ffi.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Library\\bin\\ffi.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Users\\Eduardo '
+   'Zagato\\anaconda3\\envs\\matematica\\Library\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'C:\\xampp\\htdocs\\matematica\\build\\matematica\\base_library.zip',
+   'DATA')],
+ [])
